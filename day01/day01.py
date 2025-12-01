@@ -1,4 +1,4 @@
-# Day 01: 
+# Day 01: Secret Entrance
 
 import sys
 CLR = "\33[2K\r"
