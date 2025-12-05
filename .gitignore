@@ -1,5 +1,6 @@
 # AoC-specific: don't include puzzle inputs
 **/input.txt
+**/input
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
