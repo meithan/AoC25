@@ -1,4 +1,4 @@
-# Day 03: Printing Department
+# Day 04: Printing Department
 
 import sys
 CLR = "\33[2K\r"
@@ -43,8 +43,6 @@ print("Part 1:", accesible_count)
 
 # ------------------------------------------------------------------------------
 # Part 2
-
-ans2 = None
 
 removed_count = 0
 while True:
