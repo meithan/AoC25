@@ -1,7 +1,5 @@
 # Day 09: Movie Theater
 
-from functools import reduce
-from math import sqrt
 import sys
 
 CLR = "\33[2K\r"
